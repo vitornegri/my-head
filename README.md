@@ -2,4 +2,4 @@
 # Around the World
 
 
-![](planet-earth.gif)
+![](img/planet-earth.gif)
