@@ -1,5 +1,22 @@
-# head-spinning-HTML+CSS+GSAP
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
+# Around the World
 
-
-
-![](head-gif.gif)
+![](planet-earth.gif)
